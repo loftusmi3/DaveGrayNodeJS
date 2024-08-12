@@ -234,3 +234,14 @@
 20240812	14:08:11	e2d3e87c-7aa4-4a20-82d4-4c283d4cc424	GET	undefined	/new-page.html
 20240812	14:08:11	b5b1171a-e4d3-450d-98d9-77efce8c1752	GET	undefined	/css/style.css
 20240812	14:08:11	bd910c6b-d480-4861-bd9e-b32bd2ea93b9	GET	undefined	/img/img1.jpg
+20240812	16:34:32	3415a3ba-9778-4f28-b93e-40f7cefcce1d	GET	undefined	/new-page.html
+20240812	16:34:32	bc74cca1-a08b-4468-a300-a65328eb1173	GET	undefined	/img/img1.jpg
+20240812	16:34:32	a3dd4f6e-ea5f-4c12-880a-3f38ff87ecfc	GET	undefined	/css/style.css
+20240812	16:48:05	96ad0d49-1256-430d-802e-c54fb9f146ec	GET	undefined	/new-page
+20240812	16:48:06	3ffe34d4-e1f0-422a-b1ff-c9de83d26abb	GET	undefined	/css/style.css
+20240812	16:48:06	89cc5cff-dcaf-4549-a380-3e41b18de62e	GET	undefined	/img/img1.jpg
+20240812	16:49:24	e2d267a7-4679-44fd-ab97-a42a16255cf6	GET	undefined	/new-page.html
+20240812	16:49:24	42a9ff0f-5d65-4d9a-a54b-effc8505c1f8	GET	undefined	/img/img1.jpg
+20240812	16:49:24	4e78e849-9e49-43fc-88a4-8aeb94578def	GET	undefined	/css/style.css
+20240812	16:49:33	cb319b40-f9cb-4171-8a9a-d4cddd852de5	GET	undefined	/__dirname%5Cnew-page.html
+20240812	16:49:33	8a3b5152-cba4-4b98-89d5-1174031b7aeb	GET	undefined	/css/style.css
