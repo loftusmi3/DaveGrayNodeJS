@@ -1,0 +1,6 @@
+20240809	23:01:33	61f1bc89-3e6c-4351-84b4-d16b4a48825d	TypeError	fsPromises.readFil is not a function
+20240812	12:35:39	65c2e55d-60d2-4b11-8119-54a7684b1d47	Error: Not allowed by CORS
+20240812	12:35:39	b066fc55-19b6-4c28-91ee-4d1fde80b700	Error: Not allowed by CORS
+20240812	12:39:31	3002df6e-a4c5-43c6-b40e-93c1f0da46f0	ReferenceError: sendFile is not defined
+20240812	12:39:31	d16e8f09-ef88-4a51-92d1-bae29956d669	ReferenceError: sendFile is not defined
+20240812	12:59:11	217673cc-347e-4cc9-8466-ca8788cb472e	TypeError: The "path" argument must be of type string. Received type number (301)
